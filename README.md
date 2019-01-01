@@ -1,3 +1,3 @@
 # Media
 
-> See [Media Wiki](/bradyclifford/media/wiki) for technical docs
+> See [Media Wiki](/bradyclifford/media/wiki) for notes
